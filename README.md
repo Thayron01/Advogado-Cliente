@@ -1,7 +1,5 @@
-# Senac Jovem programador
+# Senac Plataforma Advogado Cliente
 
-Projeto: Plataforma Advogado Cliente
-
-Por: Thayron Rambo, Lucas Aldrighi, Gabriel Caetano, Eduardo Horn Espindola;
+Alunos: Thayron Rambo, Lucas Aldrighi, Gabriel Caetano, Eduardo Horn Espindola;
 
 Apresentação: 
