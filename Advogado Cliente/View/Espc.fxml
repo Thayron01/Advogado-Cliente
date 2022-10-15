@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="620.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <content>
+      <AnchorPane prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <Label layoutX="16.0" layoutY="4.0" text="Onde seu caso se classifica">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="77.0" text=".Divórcio">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="94.0" text=".Compra e venda">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="111.0" text=".Negociações de contrato">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="128.0" text=".Indenizações">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="145.0" text=".Ações de despejo e cobrança">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="162.0" text=".Falecimento e inventário">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Button layoutX="13.0" layoutY="38.0" mnemonicParsing="false" text="Advogado civil" />
+            <Button layoutX="201.0" layoutY="38.0" mnemonicParsing="false" text="Advogado Ambiental" />
+            <Label layoutX="201.0" layoutY="77.0" text=".Prestar consultoria jurídica na área de meio ambiente">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="201.0" layoutY="94.0" text=".Acompanhar processos administrativos de licenciamento">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="201.0" layoutY="111.0" text=" ambiental e infrações ambientais">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="201.0" layoutY="128.0" text=".Participar de processos judiciais civis e criminais vinculados">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="201.0" layoutY="145.0" text="à legislação ambiental">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Line endX="-10.0" endY="-9.0" layoutX="201.0" layoutY="199.0" startX="-10.0" startY="-157.0" />
+            <Line endX="72.0" layoutX="108.0" layoutY="199.0" startX="-100.0" />
+            <Line endX="260.0" layoutX="302.0" layoutY="200.0" startX="-100.0" />
+            <Button layoutX="13.0" layoutY="209.0" mnemonicParsing="false" text="Advogado do consumidor" />
+            <Label layoutX="16.0" layoutY="251.0" text=".Produtos defeituosos">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="16.0" layoutY="268.0" text=".Serviços feitos incorretamente">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="16.0" layoutY="285.0" text=".Vícos redibitórios">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="16.0" layoutY="302.0" text=".Problemas contratuais">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="16.0" layoutY="319.0" text=".Práticas abusivas de comércio">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Button layoutX="247.0" layoutY="209.0" mnemonicParsing="false" text="Advogado criminalista" />
+            <Label layoutX="253.0" layoutY="251.0" text=".Acusação criminal">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="254.0" layoutY="285.0" text="Independentemente se o cliente for inocente ou culpado,">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Line endX="-17.0" endY="1.0" layoutX="252.0" layoutY="355.0" startX="-17.0" startY="-139.0" />
+            <Label layoutX="253.0" layoutY="302.0" text="compete ao profissional buscar um meio justo de defendê-lo">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="254.0" layoutY="319.0" text="baseado na lei.">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Button layoutX="15.0" layoutY="381.0" mnemonicParsing="false" text="Advogado empresarial" />
+            <Label layoutX="18.0" layoutY="423.0" text=".Garante a segurança legal às empresas">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="18.0" layoutY="440.0" text=".Orienta, analisa e elabora contratos sociais,">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="17.0" layoutY="457.0" text="acompanha de perto os processos cíveis tributários">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="17.0" layoutY="474.0" text="e trabalhistas, e representa a empresa no">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="17.0" layoutY="491.0" text="tribunal em casos de audiências.">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Line endX="199.0" layoutX="111.0" layoutY="370.0" startX="-100.0" />
+            <Button layoutX="335.0" layoutY="385.0" mnemonicParsing="false" text="Advogado digital" />
+            <Label layoutX="338.0" layoutY="427.0" text=".Direitos autorais">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="338.0" layoutY="444.0" text=".Violação de privacidade">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="338.0" layoutY="461.0" text=".Fake news">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Line endX="-17.0" endY="1.0" layoutX="344.0" layoutY="517.0" startX="-17.0" startY="-139.0" />
+            <Line endX="120.0" layoutX="439.0" layoutY="368.0" startX="-100.0" />
+            <Button layoutX="11.0" layoutY="543.0" mnemonicParsing="false" text="Advogado tributário" />
+            <Label layoutX="14.0" layoutY="585.0" text=".Prestação de consultoria">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="602.0" text=".Elaboração de planejamento tributário">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="619.0" text=".Ações preventivas">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="636.0" text=".Acompanhamento e defesa de processos de execução">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="653.0" text=".Regularização de pendências">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="670.0" text=".Recuperação de créditos tributários">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Button layoutX="337.0" layoutY="547.0" mnemonicParsing="false" text="Advogado trabalhista" />
+            <Label layoutX="340.0" layoutY="589.0" text=".Direitos autorais">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="340.0" layoutY="606.0" text=".Violação de privacidade">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="340.0" layoutY="623.0" text=".Fake news">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="76.0" layoutY="45.0" />
+            <Label layoutX="266.0" layoutY="45.0" />
+            <Label layoutX="76.0" layoutY="216.0" />
+            <Line endX="199.0" layoutX="111.0" layoutY="526.0" startX="-100.0" />
+            <Line endX="127.0" layoutX="433.0" layoutY="526.0" startX="-100.0" />
+         </children>
+      </AnchorPane>
+   </content>
+</ScrollPane>
